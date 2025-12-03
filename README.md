@@ -114,13 +114,6 @@ lib/
    ```bash
    flutter run
    ```
-
----
-
-## 📱 Screenshots
-
-![Chat Screen](./flutter-chatgpt.png)
-
 ---
 
 ## 🎓 Learning Outcomes
